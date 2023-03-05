@@ -165,3 +165,6 @@ Now, check the Include column headers when copying or saving the results
  further which change the datas as well.
  
  #### guided project with the help of Ali Ahmed https://www.youtube.com/watch?v=aavJvdlMaJ4&t=369s
+
+
+<img width="491" alt="sales" src="https://user-images.githubusercontent.com/115044557/222977191-455c351c-1f99-42b7-bfd5-a7f5c1f03346.png">
