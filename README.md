@@ -1,5 +1,5 @@
 # SalesReport_SQL_PowerBI
-#STEP BY STEP UPROACH
+## STEP BY STEP UPROACH
 1. Intro and setup
 2. Business request and planning
 3. Data cleansing and transformation
@@ -62,13 +62,13 @@ right click on the [AdventureWorksDW2019] and click  new script and paste the ab
 this updates the data into the most recent year	
 
 
-#DATA CLEANING
+## DATA CLEANING
 Fact table vs dimension table 
 
 fact table is numbers and dimensions is the textvalue for the rows or the earlier said numbers
 
 
-#Business request 
+## Business request 
 : in this project we will be considering 
 
 A mail from the Sales manager Richard ,
@@ -91,7 +91,7 @@ Let me know if you need anything else!
 
 // Richard
 
-#Key takeaways:
+### Key takeaways:
 - Visual dashboard needed
 - how many products has been sold and to whom
 - to include a filter for sales person
@@ -99,7 +99,7 @@ Let me know if you need anything else!
  must be checked to compare values against performance
 - the budget in hand is for 2023, can go 2 years back 
 
-#CODE SNIPPETS AND NOTES
+## CODE SNIPPETS AND NOTES
 just for checkin purposes 
 to see what years are present
 
@@ -159,5 +159,9 @@ while saving the tables of each cleaned stats, make sure your query settings inc
 to check 
 right click your query and then go to Query Options->Select Grid under Results node in the left navigation pane. 
 Now, check the Include column headers when copying or saving the results
+ # POWERBI
  
- #guided project with the help of Ali Ahmed https://www.youtube.com/watch?v=aavJvdlMaJ4&t=369s
+ After importing the changed csvs into the powerbi desktop, make sure to model the data accordingly. 
+ further which change the datas as well.
+ 
+ #### guided project with the help of Ali Ahmed https://www.youtube.com/watch?v=aavJvdlMaJ4&t=369s
