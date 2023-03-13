@@ -1,5 +1,5 @@
 # SalesReport_SQL_PowerBI
-## STEP BY STEP UPROACH
+## STEP BY STEP APPROACH
 1. Intro and setup
 2. Business request and planning
 3. Data cleansing and transformation
