@@ -94,7 +94,6 @@ Let me know if you need anything else!
 ### Key takeaways:
 - Visual dashboard needed
 - how many products has been sold and to whom
-- to include a filter for sales person
 - numbers and budget(spreadsheet not in data warehouse)
  must be checked to compare values against performance
 - the budget in hand is for 2023, can go 2 years back 
